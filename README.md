@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science, deep learning, and web development
 - 🌱 I’m currently learning deep learning programming with python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me reemhassab@gmail.com 
+- find me on linkedin https://www.linkedin.com/in/reemalhassab/ 
 
 <!---
 ReemHassab/ReemHassab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
