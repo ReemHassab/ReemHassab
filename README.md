@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, deep learning, and web development
 - 🌱 I’m currently learning deep learning programming with python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me reemhassab@gmail.com 
+- 📫 How to reach me alghamdi.reemabdulrhman@gmail.com
 - find me on linkedin https://www.linkedin.com/in/reemalhassab/ 
 
 <!---
